@@ -1,7 +1,8 @@
 ## Hi there, 👋 **I'm Anuradha Liyanage!**  
 🚀 **Quality Assurance Engineer | Test Automation Enthusiast | Problem Solver**  
 
-This is the **new version** of my GitHub account, created to better reflect my latest projects, clean code practices, and continuous growth as a QA professional. You can still find some of my earlier academic works and contributions at SLIIT on my previous account:
+This is the **new version** of my GitHub account, created to better reflect my latest projects, clean code practices, and continuous growth as a QA professional. You can still find some of my earlier academic works and contributions at SLIIT on my previous account.
+
 🔗 Previous GitHub: **https://github.com/AnuradhaLiyanage**
 
 I'm a passionate **QA Engineer** with over **a year of experience** in **manual and automation testing**, ensuring high-quality software delivery. I specialize in:  
